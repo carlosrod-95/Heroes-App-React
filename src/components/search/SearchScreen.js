@@ -32,7 +32,7 @@ export const SearchScreen = ({history}) => {
             <h1>Search</h1>
             <hr/>
 
-            <div className="row animate__animated animate__fadeIn">
+            <div className="row">
                 <div className="col-5">
                     <h4>Search Form</h4>
                     <hr/>
